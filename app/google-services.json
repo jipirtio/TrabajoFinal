@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25378282075",
+    "project_id": "unimap-fe29d",
+    "storage_bucket": "unimap-fe29d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25378282075:android:644ed09ad2c1b2c232bd7e",
+        "android_client_info": {
+          "package_name": "com.ud.proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dMKfOtcwhDeZhXiHurhxz-un5gmdP5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

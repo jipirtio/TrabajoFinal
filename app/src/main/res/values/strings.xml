@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o registrarse</string>
+</resources>
