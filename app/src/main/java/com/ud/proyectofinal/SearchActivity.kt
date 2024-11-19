@@ -1,10 +1,10 @@
 package com.ud.proyectofinal
 
+import android.content.Intent
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
-import androidx.appcompat.app.AppCompatActivity
-import android.content.Intent
 
 class SearchActivity : AppCompatActivity() {
 
@@ -25,7 +25,9 @@ class SearchActivity : AppCompatActivity() {
 
         // Implementa la lógica para los botones
         findBlockButton.setOnClickListener {
-            // Lógica para encontrar bloque
+            // Inicia la MapActivity
+            val intent = Intent(this, MapActivity::class.java)
+            startActivity(intent)
         }
 
         chatButton.setOnClickListener {
