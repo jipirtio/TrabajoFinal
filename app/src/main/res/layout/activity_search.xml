@@ -18,13 +18,13 @@
         android:id="@+id/findBlockButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Encontrar bloque"/>
+        android:text="@string/find_block_button"/>
 
     <Button
         android:id="@+id/chatButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Chatea con otros estudiantes"
+        android:text="@string/chat_button"
         android:layout_marginTop="16dp"/>
 
 </LinearLayout>

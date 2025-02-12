@@ -25,8 +25,8 @@ class SearchActivity : AppCompatActivity() {
 
         // Implementa la lógica para los botones
         findBlockButton.setOnClickListener {
-            // Inicia la MapActivity
-            val intent = Intent(this, MapActivity::class.java)
+            // Inicia la BlockListActivity
+            val intent = Intent(this, BlockListActivity::class.java)
             startActivity(intent)
         }
 

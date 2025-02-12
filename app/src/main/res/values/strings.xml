@@ -4,4 +4,32 @@
     <string name="action_sign_in_short">Iniciar sesión</string>
     <string name="prompt_password">Contraseña</string>
     <string name="action_sign_in">Iniciar sesión o registrarse</string>
+    <string name="block_1_2">Bloque 1-2</string>
+    <string name="block_3_4">Bloque 3-4</string>
+    <string name="block_5">Bloque 5</string>
+    <string name="block_6">Bloque 6</string>
+    <string name="block_7_8">Bloque 7-8</string>
+    <string name="block_9">Bloque 9</string>
+    <string name="block_11_12">Bloque 11-12</string>
+    <string name="block_13">Bloque 13</string>
+    <string name="techne">Techné</string>
+    <string name="floor_1">Piso 1</string>
+    <string name="floor_2">Piso 2</string>
+    <string name="floor_3">Piso 3</string>
+    <string name="floor_4">Piso 4</string>
+    <string name="floor_5">Piso 5</string>
+    <string name="floor_6">Piso 6</string>
+    <string name="floor_7">Piso 7</string>
+    <string name="floor_8">Piso 8</string>
+    <string name="map_link">Ver en Google Maps</string>
+        <string name="find_faculty_button">Encuentra tu facultad</string>
+        <string name="login_button">Iniciar sesión</string>
+    <string name="faculty_name">Facultad de Ingeniería</string>
+    <string name="find_block_button">Encontrar bloque</string>
+    <string name="chat_button">Chatea con otros estudiantes</string>
+        <string name="search_classroom_text">¿Qué salón estás buscando?</string>
+
+
+
+
 </resources>

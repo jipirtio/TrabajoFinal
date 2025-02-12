@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="block_1_2">Block 1-2</string>
+    <string name="block_3_4">Block 3-4</string>
+    <string name="block_5">Block 5</string>
+    <string name="block_6">Block 6</string>
+    <string name="block_7_8">Block 7-8</string>
+    <string name="block_9">Block 9</string>
+    <string name="block_11_12">Block 11-12</string>
+    <string name="block_13">Block 13</string>
+    <string name="techne">Techne</string>
+    <string name="floor_1">Floor 1</string>
+    <string name="floor_2">Floor 2</string>
+    <string name="floor_3">Floor 3</string>
+    <string name="floor_4">Floor 4</string>
+    <string name="floor_5">Floor 5</string>
+    <string name="floor_6">Floor 6</string>
+    <string name="floor_7">Floor 7</string>
+    <string name="floor_8">Floor 8</string>
+    <string name="map_link">View on Google Maps</string>
+        <string name="find_faculty_button">Find your faculty</string>
+        <string name="login_button">Log in</string>
+    <string name="faculty_name">Faculty of Engineering</string>
+    <string name="find_block_button">Find block</string>
+    <string name="chat_button">Chat with other students</string>
+        <string name="search_classroom_text">What classroom are you looking for?</string>
+
+
+</resources>
